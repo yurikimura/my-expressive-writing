@@ -1,4 +1,4 @@
-## ChatGPT-linebot
+## My Expressive Writing LINE bot
 
 ### 🌟Star Me If You Like It!🌟 
 
